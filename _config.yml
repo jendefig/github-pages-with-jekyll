@@ -1,14 +1,17 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Sprouting Data
+author: Jeny De Figueiredo
+email: jeny.defigueiredo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ 
+I am a baby data science nerd.  Wife.  Mom.  Former Olympian.  Former lots of things related to visual storytelling.  Making people understand through various forms of visual communication has always lit my fire.  
+I am also a person with endless curiosity yearning to understand why humans do the things they do, how that contributes to what’s happening in the world and to find solutions to problems.  I have always kept files, random scraps of paper and more recently a running list of items in my phone that I’m interested in studying along these lines.  This blog will help me hone my data science skills while chipping away at the list….
+
+Currently working to complete the Microsoft Professional Program in Data Science.  Capstone project to be completed in January to complete program.  Seeking work as an entry level data/business analyst.
+
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: @jendefig
+github_username:  jendefig
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
